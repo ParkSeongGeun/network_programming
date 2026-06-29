@@ -1,3 +1,4 @@
 # Build outputs
 c++_practice/build/
-.vscode/
+.vscode/.vscode/ 
+.omc/
